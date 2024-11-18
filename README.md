@@ -6,3 +6,5 @@ to correct noisy speech transcripts generated from audiobooksby an automatic spe
 The code for the finetuning and testing can be found in Finetuning-Danish-LLM.ipynb 
 The data file noisy_danish_data.txt is used for finetuning and testing/
 You can download the jupyter notebook and retraini the model on your own data.
+
+More details about the project, LLM, error metrics etc can be found in the Coherent-text-generation-report.pdf
