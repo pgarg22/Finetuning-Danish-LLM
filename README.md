@@ -11,10 +11,10 @@ The repository includes:
 
 ## 📁 Files
 
-- `Finetuning-Danish-LLM.ipynb` – Google Colab notebook for model training and evaluation.
-- `report.pdf` – Project report describing dataset, methods, results, and discussion.
-- `poster.pdf` – Visual summary of the project for presentation purposes.
-- `data.txt` – Dataset of token-level noisy/correct word pairs used for training and evaluation.
+- `Main.ipynb` – Google Colab notebook for model training and evaluation.
+- `Report.pdf` – Project report describing dataset, methods, results, and discussion.
+- `Poster.pdf` – Poster summary of the project for presentation purposes.
+- `noisy_danish_data.txt` – Dataset of token-level noisy/correct word pairs used for training and evaluation.
 
 ---
 
@@ -75,4 +75,4 @@ If you use this project or dataset, please cite the associated report or credit 
 ## 📍 Acknowledgements
 
 - Model: [`ufal/byt5-small-multilexnorm2021-da`](https://huggingface.co/ufal/byt5-small-multilexnorm2021-da)
-- Project developed as part of a course/research project on Danish NLP.
+- Project developed as part of a course/research project on Danish NLP in Deep Learning course at DTU.
