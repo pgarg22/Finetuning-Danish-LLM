@@ -61,8 +61,8 @@ pip install Levenshtein
 
 To run the notebook:
 1. Clone the repository and upload it to [Google Colab](https://colab.research.google.com/).
-2. Upload your own `data.txt` or use the provided one.
-3. Run all cells in `Finetuning-Danish-LLM.ipynb` to reproduce training and evaluation.
+2. Upload your own `noisy_danish_data.txt` or use the provided one.
+3. Run all cells in `Main.ipynb` to reproduce training and evaluation.
 
 ---
 
